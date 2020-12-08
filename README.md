@@ -26,10 +26,6 @@
 |:---:|:---:|:---:|
 |![](https://github.com/princekin-f/EasyFloat/blob/master/gif/%E6%B5%AE%E7%AA%97Callbacks.gif)|![](https://github.com/princekin-f/EasyFloat/blob/master/gif/%E6%96%B9%E4%BE%BF%E7%9A%84view%E4%BF%AE%E6%94%B9.gif)|![](https://github.com/princekin-f/EasyFloat/blob/master/gif/dialog%E5%92%8Cxml%E4%BD%BF%E7%94%A8.gif)|
 
-## 下载体验：
-- [直接下载测试APK](https://raw.githubusercontent.com/princekin-f/EasyFloat/master/example/release/EasyFloat.apk)，或者扫码下载：
-
-![](https://raw.githubusercontent.com/princekin-f/EasyFloat/master/example/release/downloadImage.png)
 
 ## 关于集成：
 - **在项目的根目录的`build.gradle`添加：**
@@ -245,16 +241,6 @@ InputMethodUtils.closedInputMethod(tag)
 
 ## 关于更新：
 - [查看版本更新日志](https://github.com/princekin-f/EasyFloat/blob/master/UpdateDoc.md)
-
-## 交流和激励：
-- **为了大家更好的交流和反馈，我们创建了QQ群：`818756969`**
-- 如果该库对你提供了帮助，你可以小小的赏赞一下作者，同样作者也会非常感谢你！我们一起众筹云测😘
-
-<div align="center">
-<img src="https://github.com/princekin-f/EasyFloat/blob/master/gif/EasyFloatGroup.jpeg"  width="266">
-<img src="https://github.com/princekin-f/EasyFloat/blob/master/gif/Alipay.jpeg" width="266">
-<img src="https://github.com/princekin-f/EasyFloat/blob/master/gif/WeChatPay.jpeg" width="266" >
-</div>
 
 
 License
