@@ -1,0 +1,3 @@
+include ':example', ':easyfloat'
+include ':easyfloat-java'
+include ':example-java'
